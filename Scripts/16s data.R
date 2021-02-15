@@ -1,7 +1,7 @@
 library(tidyverse)
 library(ggplot2)
 
-implants_qpcr <- read_csv("data/implants 2019.csv", na = "null")
+implants_qpcr <- read_csv("Data/implants 2019.csv", na = "null")
 implants_qpcr
 
 ## Checking data
